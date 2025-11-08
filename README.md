@@ -54,8 +54,8 @@ The goal was to predict wine quality scores (from 3 to 8) based on chemical feat
 - KNN scored best on Macro-F1, handling class imbalance slightly better.  
 - All models were biased toward the majority classes (5 and 6).  
 
-## Structure  
-
+## Structure
+<pre>
 ML-wine-classifier/
 ├── main.ipynb
 ├── ANN.ipynb
@@ -64,6 +64,7 @@ ML-wine-classifier/
 ├── winequality-red-5.csv
 ├── requirements.txt
 └── README.md
+</pre>
 
 ## Key Work  
 
