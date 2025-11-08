@@ -65,9 +65,6 @@ ML-wine-classifier/
 ├── requirements.txt
 └── README.md
 
-markdown
-Copy code
-
 ## Key Work  
 
 - Exploratory analysis: heatmaps, distributions, and feature comparisons  
@@ -85,6 +82,7 @@ pip install -r requirements.txt
 jupyter notebook
 Dependencies
 numpy, pandas, matplotlib, seaborn, scikit-learn, scipy
+```
 
 ## Summary
 The Random Forest model gave the best overall performance, while KNN handled class imbalance slightly better. The ANN was less accurate but showed stable learning behavior. All models struggled with minority classes due to the skewed dataset.
