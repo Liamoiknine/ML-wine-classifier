@@ -56,14 +56,7 @@ The goal was to predict wine quality scores (from 3 to 8) based on chemical feat
 
 ## Structure  
 
-ML-wine-classifier/
-├── main.ipynb
-├── ANN.ipynb
-├── Random_Forest.ipynb
-├── KNN.ipynb
-├── winequality-red-5.csv
-├── requirements.txt
-└── README.md
+<pre> ## Structure ```text ML-wine-classifier/ ├── main.ipynb ├── ANN.ipynb ├── Random_Forest.ipynb ├── KNN.ipynb ├── winequality-red-5.csv ├── requirements.txt └── README.md ``` </pre>
 
 ## Key Work  
 
