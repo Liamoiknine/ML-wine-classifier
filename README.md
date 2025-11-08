@@ -58,11 +58,17 @@ The goal was to predict wine quality scores (from 3 to 8) based on chemical feat
 
 ML-wine-classifier/
 ├── main.ipynb
+
 ├── ANN.ipynb
+
 ├── Random_Forest.ipynb
+
 ├── KNN.ipynb
+
 ├── winequality-red-5.csv
+
 ├── requirements.txt
+
 └── README.md
 
 ## Key Work  
@@ -80,9 +86,10 @@ git clone https://github.com/liamoiknine/ML-wine-classifier.git
 cd ML-wine-classifier
 pip install -r requirements.txt
 jupyter notebook
-Dependencies
-numpy, pandas, matplotlib, seaborn, scikit-learn, scipy
 ```
+## Dependencies
+numpy, pandas, matplotlib, seaborn, scikit-learn, scipy
+
 
 ## Summary
 The Random Forest model gave the best overall performance, while KNN handled class imbalance slightly better. The ANN was less accurate but showed stable learning behavior. All models struggled with minority classes due to the skewed dataset.
