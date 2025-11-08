@@ -76,7 +76,7 @@ ML-wine-classifier/
 ## Setup  
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/liamoiknine/ML-wine-classifier.git
 cd ML-wine-classifier
 pip install -r requirements.txt
 jupyter notebook
